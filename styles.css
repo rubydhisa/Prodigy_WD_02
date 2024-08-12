@@ -5,15 +5,15 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #2a052c;
 }
 
 .stopwatch {
     text-align: center;
-    background: #fff;
+    background: #b668f7;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(125, 41, 41, 0.142);
     max-width: 400px;
     width: 100%;
 }
@@ -29,14 +29,14 @@ body {
     margin: 5px;
     border: none;
     border-radius: 5px;
-    background-color: #007bff;
-    color: white;
+    background-color: #58206e;
+    color: rgb(235, 221, 221);
     cursor: pointer;
     outline: none;
 }
 
 .controls button:active {
-    background-color: #25a6a6;
+    background-color: #b9abb5;
 }
 
 .controls button:disabled {
